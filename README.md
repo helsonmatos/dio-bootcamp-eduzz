@@ -17,7 +17,7 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~Introdução ao **TypeScript**: Explorando Classes, Tipos e Interfaces~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/D3D51083)
 - [x] ~~Resolvendo **Desafios de Código** em **JavaScript**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/5EAF568A)
 - [x] ~~Desafios iniciais em **JavaScript**~~;
-- [x] ~~Criando seu jogo de memória estilo **Genius**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**]() | :video_game: [[**Genius Game**]]()
+- [x] ~~Criando seu jogo de memória estilo **Genius**~~; :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/project-genius-dio-eduzz) | :paperclip: [**[Certificado]**]() | :video_game: [[**Genius Game**]](https://github.com/helsonmatos/project-genius-dio-eduzz)
 - [x] ~~Introdução ao **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/EC044476)
 - [x] ~~Trabalhando com **Componentes em React**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CBDE24BE)
 - [x] ~~Desenvolvimento de **aplicações para internet** com **ReactJS**~~; :file_folder: [[**Conteúdo**]]()
