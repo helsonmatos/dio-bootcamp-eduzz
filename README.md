@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/Github da DIO
 
-Repositório criado para o desafio de projeto, incluir todas as atividades da **Digital Innovation One - DIO**(https://web.dio.me/track/eduzz-fullstack-developer-3), executados pelo Bootcamp Eduzz Fullsatck Developer.
+Repositório criado para o desafio de projeto, incluir todas as atividades da [**Digital Innovation One - DIO**](https://web.dio.me/track/eduzz-fullstack-developer-3), executados pelo Bootcamp Eduzz Fullsatck Developer.
 
 ## :bookmark_tabs:Atividades
 
