@@ -35,5 +35,5 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [ ] Desafios Médios em JavaScript;
 - [ ] Construindo Encurtador de URL;
 - [x] ~~Fundamentos de Arquitetura de Sistemas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/458ECEA1)
-- [ ] Introdução a orquestração de contêiners com **Docker**;
+- [x] Introdução a orquestração de contêiners com **Docker**; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/DB1F397F)
 - [ ] Introdução prática a computação em nuvem usando **AWS**;
