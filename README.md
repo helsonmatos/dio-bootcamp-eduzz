@@ -21,7 +21,7 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~Introdução ao **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/EC044476)
 - [x] ~~Trabalhando com **Componentes em React**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CBDE24BE)
 - [x] ~~Desenvolvimento de **aplicações para internet** com **ReactJS**~~; :file_folder: [[**Conteúdo**]]()
-- [x] ~~**Práticas avançadas** em projetos com **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**]()
+- [x] ~~**Práticas avançadas** em projetos com **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/9E81F86E)
 - [x] ~~Introdução aos **React Hooks**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/0F5C2D88)
 - [ ] Criando aplicações móveis multiplataforma com **React Native**;
 - [ ] Desafios Básicos de JavaScript
