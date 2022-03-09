@@ -22,7 +22,7 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~Trabalhando com **Componentes em React**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CBDE24BE)
 - [x] ~~Desenvolvimento de **aplicações para internet** com **ReactJS**~~; :file_folder: [[**Conteúdo**]]()
 - [x] ~~**Práticas avançadas** em projetos com **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**]()
-- [x] Introdução aos **React Hooks**; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/0F5C2D88)
+- [x] ~~Introdução aos **React Hooks**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/0F5C2D88)
 - [ ] Criando aplicações móveis multiplataforma com **React Native**;
 - [ ] Desafios Básicos de JavaScript
 - [ ] Criando um front-end totalmente componentizado na prática com ReactJS
@@ -35,5 +35,5 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [ ] Desafios Médios em JavaScript;
 - [ ] Construindo Encurtador de URL;
 - [x] ~~Fundamentos de Arquitetura de Sistemas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/458ECEA1)
-- [x] Introdução a orquestração de contêiners com **Docker**; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/DB1F397F)
-- [x] Introdução prática a computação em nuvem usando **AWS**; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/2C8CE8CC)
+- [x] ~~Introdução a orquestração de contêiners com **Docker**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/DB1F397F)
+- [x] ~~Introdução prática a computação em nuvem usando **AWS**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/2C8CE8CC)
