@@ -23,13 +23,13 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~Desenvolvimento de **aplicações para internet** com **ReactJS**~~; :file_folder: [[**Conteúdo**]]()
 - [x] ~~**Práticas avançadas** em projetos com **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/9E81F86E)
 - [x] ~~Introdução aos **React Hooks**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/0F5C2D88)
-- [ ] Criando aplicações móveis multiplataforma com **React Native**;
+- [x] ~~Criando aplicações móveis multiplataforma com **React Native**~~; [**[Certificado]**](https://www.dio.me/certificate/4F983C56)
 - [ ] Desafios Básicos de JavaScript
 - [ ] Criando um front-end totalmente componentizado na prática com ReactJS
 - [x] ~~**MySql** - Trabalhando com as suas primeiras tabelas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/09C0C818)
 - [x] ~~Introdução ao **MongoDB** e Banco de Dados **NoSQL**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/A619E179)
 - [X] ~~Introdução ao **Node.js** com JavaScript~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CCBFA4D6)
-- [ ] Explorando o Estilo Arquitetural **REST** com Node.js;
+- [x] ~~Explorando o Estilo Arquitetural **REST** com Node.js~~; [**[Certificado]**](https://www.dio.me/certificate/A1277C1A)
 - [ ] Node.js com Banco de Dados Relacionais (SQL);
 - [ ] Microsserviços e Integrações com Node.js;
 - [ ] Desafios Médios em JavaScript;
