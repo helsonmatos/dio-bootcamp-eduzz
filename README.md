@@ -33,7 +33,7 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [ ] Node.js com Banco de Dados Relacionais (SQL);
 - [ ] Microsserviços e Integrações com Node.js;
 - [ ] Desafios Médios em JavaScript;
-- [ ] Construindo Encurtador de URL;
+- [x] ~~Construindo Encurtador de URL~~; :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/project-genius-dio-eduzz) | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/1969A0FA)
 - [x] ~~Fundamentos de Arquitetura de Sistemas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/458ECEA1)
 - [x] ~~Introdução a orquestração de contêiners com **Docker**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/DB1F397F)
 - [x] ~~Introdução prática a computação em nuvem usando **AWS**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/2C8CE8CC)
