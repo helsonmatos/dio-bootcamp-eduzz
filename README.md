@@ -30,8 +30,8 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~Introdução ao **MongoDB** e Banco de Dados **NoSQL**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/A619E179)
 - [X] ~~Introdução ao **Node.js** com JavaScript~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CCBFA4D6)
 - [x] ~~Explorando o Estilo Arquitetural **REST** com Node.js~~; [**[Certificado]**](https://www.dio.me/certificate/A1277C1A)
-- [ ] Node.js com Banco de Dados Relacionais (SQL);
-- [ ] Microsserviços e Integrações com Node.js;
+- [x] ~~Node.js com Banco de Dados Relacionais (SQL)~~;~ [**[Certificado]**](https://www.dio.me/certificate/000B10FD)
+- [x] ~~Microsserviços e Integrações com Node.js~~; [**[Certificado]**](https://www.dio.me/certificate/64E571FF)
 - [ ] Desafios Médios em JavaScript;
 - [x] ~~Construindo Encurtador de URL~~; :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/encurtador-de-url) | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/1969A0FA)
 - [x] ~~Fundamentos de Arquitetura de Sistemas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/458ECEA1)
