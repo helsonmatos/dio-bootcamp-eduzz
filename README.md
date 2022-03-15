@@ -24,15 +24,15 @@ Abaixo, todas as atividades do **Bootcamp Eduzz Fullstack**:
 - [x] ~~**Práticas avançadas** em projetos com **ReactJS**~~; :file_folder: [[**Conteúdo**]]() | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/9E81F86E)
 - [x] ~~Introdução aos **React Hooks**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/0F5C2D88)
 - [x] ~~Criando aplicações móveis multiplataforma com **React Native**~~; [**[Certificado]**](https://www.dio.me/certificate/4F983C56)
-- [ ] Desafios Básicos de JavaScript
-- [ ] Criando um front-end totalmente componentizado na prática com ReactJS
+- [x] ~~Desafios Básicos de JavaScript~~
+- [x] ~~Criando um front-end totalmente componentizado na prática com ReactJS~~~; :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/criando-um-front-end-totalmente-componentizado-na-pratica-com-ReactJS) | [**[Certificado]**](https://www.dio.me/certificate/CB16433C)
 - [x] ~~**MySql** - Trabalhando com as suas primeiras tabelas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/09C0C818)
 - [x] ~~Introdução ao **MongoDB** e Banco de Dados **NoSQL**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/A619E179)
 - [X] ~~Introdução ao **Node.js** com JavaScript~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/CCBFA4D6)
 - [x] ~~Explorando o Estilo Arquitetural **REST** com Node.js~~; [**[Certificado]**](https://www.dio.me/certificate/A1277C1A)
 - [x] ~~Node.js com Banco de Dados Relacionais (SQL)~~;~ [**[Certificado]**](https://www.dio.me/certificate/000B10FD)
 - [x] ~~Microsserviços e Integrações com Node.js~~; [**[Certificado]**](https://www.dio.me/certificate/64E571FF)
-- [ ] Desafios Médios em JavaScript;
+- [x] ~~Desafios Médios em JavaScript~~;
 - [x] ~~Construindo Encurtador de URL~~; :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/encurtador-de-url) | :paperclip: [**[Certificado]**](https://www.dio.me/certificate/1969A0FA)
 - [x] ~~Fundamentos de Arquitetura de Sistemas~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/458ECEA1)
 - [x] ~~Introdução a orquestração de contêiners com **Docker**~~; :paperclip: [**[Certificado]**](https://www.dio.me/certificate/DB1F397F)
